@@ -1,0 +1,45 @@
+[
+    {
+        "cedula": "40876775432",
+        "foto_url": "https:\/\/www.elheraldo.co\/resizer\/LfH-kqFgO5ve0npe6ZO6hUDqy9I=\/arc-photo-elheraldoco\/arc2-prod\/public\/PRWTJY6MYNG25B4FBSKRGWNAUQ.jpg",
+        "nombre": "Rebeca",
+        "apellido": "Ramirez",
+        "fecha_nacimiento": "1987-07-30",
+        "sexo": "Femenino",
+        "habilidades": [
+            "Divertida",
+            "Honesta"
+        ],
+        "comida_favorita": "sancocho",
+        "obra_codigo": "CA100"
+    },
+    {
+        "cedula": "4077321420",
+        "foto_url": "https:\/\/imagenes.elpais.com\/resizer\/v2\/HPCKJDMCSRC7NHTWCDYCG3CTYM.jpg?auth=f172121d46d845529f6b430d875b7534f7c255f464b40f76b957cade31866344&width=980&height=980&smart=true",
+        "nombre": "\u00darsula ",
+        "apellido": " Iguar\u00e1n",
+        "fecha_nacimiento": "1966-06-29",
+        "sexo": "Femenino",
+        "habilidades": [
+            "Misteriosa",
+            "audaz"
+        ],
+        "comida_favorita": "pechuga con papa",
+        "obra_codigo": "CA100"
+    },
+    {
+        "cedula": "4085873422",
+        "foto_url": "https:\/\/i.blogs.es\/1cf7e5\/spider-man\/500_333.webp",
+        "nombre": "Peter",
+        "apellido": "parker",
+        "fecha_nacimiento": "1995-06-29",
+        "sexo": "Masculino",
+        "habilidades": [
+            "trepar",
+            "lanzar",
+            "super fuerza"
+        ],
+        "comida_favorita": "Pizza",
+        "obra_codigo": "SP005"
+    }
+]

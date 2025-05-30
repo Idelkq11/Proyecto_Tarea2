@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "CA100",
+        "foto_url": "https:\/\/liberbooksrd.com\/wp-content\/uploads\/2022\/07\/CIEN-ANOS-DE-SOLEDAD-9788497592208.jpg",
+        "tipo": "Libro",
+        "nombre": "Cien A\u00f1os de Soledad",
+        "descripcion": "Novela, Realismo m\u00e1gico, Saga familiar, Ficci\u00f3n",
+        "pais": "Colombia",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez"
+    },
+    {
+        "codigo": "SP005",
+        "foto_url": "https:\/\/www.planetadelibros.com\/usuaris\/libros\/fotos\/370\/original\/portada_spider-man-la-gran-historia_editorial-planeta-s-a_202212130936.jpg",
+        "tipo": "Serie",
+        "nombre": "Spider-Man",
+        "descripcion": "Pelicula de accion",
+        "pais": "Estados unidos",
+        "autor": "Stan Lee"
+    }
+]
